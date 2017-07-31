@@ -1,1 +1,1 @@
-# Geoip-city-finder
+# Geoip-city-finder [![Build Status](https://travis-ci.org/lzakrzewski/geoip-city-finder.svg?branch=master)](https://travis-ci.org/lzakrzewski/geoip-city-finder)
